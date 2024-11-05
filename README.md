@@ -1,6 +1,9 @@
-# meals
+# Meals_app
 
-A new Flutter project.
+A Flutter application to help users discover simple and tasty meal recipes! This app showcases a collection of basic recipes, organized by meal type (italian,german,asian etc.), with easy-to-follow instructions and ingredient lists.
+
+## Screenshots:
+
 
 ## Getting Started
 
